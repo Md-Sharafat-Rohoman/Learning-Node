@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "description": "High-quality sound with noise-canceling technology and 20-hour battery life.",
+        "price": 1200
+    },
+    {
+        "id": 2,
+        "name": "Smart Watch",
+        "description": "Track your daily fitness, heart rate, and receive notifications on the go.",
+        "price": 2500
+    },
+    {
+        "id": 3,
+        "name": "Mechanical Keyboard",
+        "description": "RGB backlit mechanical keyboard with blue switches for a tactile typing experience.",
+        "price": 3500
+    }
+]
