@@ -12,3 +12,7 @@ export const readProduct = (req: IncomingMessage, res: ServerResponse) => {
     console.log(JSON.parse(products))
     return JSON.parse(products);
 }
+
+export const insertProduct = (payLoad: any) => {
+    fs.writeFileSync(filePath, JSON.stringify(payLoad));
+}
